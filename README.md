@@ -1,2 +1,6 @@
-# DIO-Desafio
+# REPOSITORIO DA DIO PARA O DESAFIO SOBRE GIT / GITHUB
 Desafio DIO GITHUB
+
+#### LINKS UTEIS
+
+[SINTAX BASICA MARKDOWN](https://www.markdownguide.org/basic-syntax/)
